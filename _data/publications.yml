@@ -1,10 +1,25 @@
-featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+policy_reports:
+  - title: "Socio-economic Impact Assessment of Food Delivery Platform Workers"
+    authors: "Bornali Bhandari, Gautam Das, Samarth Gupta, Ajaya K. Sahu, K S Urs, Nishika Pal, Karan Raj and Sharon Thomas"
+    institution: "National Council of Applied Economic Research"
+    year: 2023
+    link: "https://ncaer.org/wp-content/uploads/2023/08/NCAER_Report_Platform_Workers_August_28_2023.pdf"
 
-index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+  - title: "National Skill Gap Study for High Growth Sectors"
+    authors: "Bornali Bhandari, Saurabh Bandyopadhyay, Ashish Desai, Isha Dayal, Charu Jain, Laxmi Joshi, Ajaya K. Sahu, K S Urs, CH S S Bharadwaja, Somdev Singh Deora, Kenneth Gomes, Denipreet Kaur, Falak Naz, Nishika Pal, Karan Raj, Kushagra Thakral and Sharon Thomas"
+    institution: "National Council of Applied Economic Research"
+    year: 2025
+    link: "https://ncaer.org/wp-content/uploads/2025/06/MSDE_Report_June_2025.pdf"
+
+# publications:
+#   - title: "Journal Article Title"
+#     authors: "Sharon S. Thomas"
+#     journal: "Journal Name"
+#     year: 2024
+#     link: "paper_link"
+
+# work_in_progress:
+#   - title: "Working Paper Title"
+#     authors: "Sharon S. Thomas"
+#     year: 2026
+#     note: "Draft available upon request"

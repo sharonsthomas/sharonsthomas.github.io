@@ -1,14 +1,35 @@
-<div class="row g-5 mb-5">
-  <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
-    {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% else %}
-      {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% endif %}
-  </div>
-</div>
+<h3>Policy Reports</h3>
+
+<ul>
+{% for paper in site.data.publications.policy_reports %}
+<li>
+<strong>{{ paper.title }}</strong><br>
+{{ paper.authors }} ({{ paper.year }})<br>
+<a href="{{ paper.link }}">Download</a>
+</li>
+{% endfor %}
+</ul>
+
+
+<!-- <h3>Publications</h3>
+
+<ul>
+{% for paper in site.data.publications.publications %}
+<li>
+<strong>{{ paper.title }}</strong><br>
+{{ paper.authors }} ({{ paper.year }})
+</li>
+{% endfor %}
+</ul>
+
+
+<h3>Work in Progress</h3>
+
+<ul>
+{% for paper in site.data.publications.work_in_progress %}
+<li>
+<strong>{{ paper.title }}</strong><br>
+{{ paper.authors }} ({{ paper.year }}) – {{ paper.note }}
+</li>
+{% endfor %}
+</ul> -->
