@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I'm a Research Associate at the Indian School of Business, working with Professor Rishabh Aggarwal in the Accounting area.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I'm interested in the intersection of technology and financial information—specifically, how technological advances affect corporate disclosures and information processing costs.
