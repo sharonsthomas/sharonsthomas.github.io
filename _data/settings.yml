@@ -1,6 +1,6 @@
 menu:
 - {name: 'blog', url: '/blog'}
-- {name: 'code & data', url: '/code & data'}
+- {name: 'code & data', url: '/code-data'}
 - {name: 'research', url: '/research'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
