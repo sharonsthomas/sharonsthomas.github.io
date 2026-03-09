@@ -1,7 +1,7 @@
 <h3>Policy Reports</h3>
 
 <ul>
-{% for paper in site.data.publications.policy_reports %}
+{% for paper in site.data.research.policy_reports %}
 <li>
 <strong>{{ paper.title }}</strong><br>
 {{ paper.authors }} ({{ paper.year }})<br>
@@ -11,10 +11,10 @@
 </ul>
 
 
-<!-- <h3>Publications</h3>
+<!-- <h3>research</h3>
 
 <ul>
-{% for paper in site.data.publications.publications %}
+{% for paper in site.data.research.research %}
 <li>
 <strong>{{ paper.title }}</strong><br>
 {{ paper.authors }} ({{ paper.year }})
@@ -26,7 +26,7 @@
 <h3>Work in Progress</h3>
 
 <ul>
-{% for paper in site.data.publications.work_in_progress %}
+{% for paper in site.data.research.work_in_progress %}
 <li>
 <strong>{{ paper.title }}</strong><br>
 {{ paper.authors }} ({{ paper.year }}) – {{ paper.note }}

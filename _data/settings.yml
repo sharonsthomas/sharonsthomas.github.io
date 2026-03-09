@@ -1,8 +1,7 @@
 menu:
 - {name: 'blog', url: '/blog'}
-- {name: 'codes', url: '/codes'}
-- {name: 'replications', url: '/replications'}
-- {name: 'publications', url: '/publications'}
+- {name: 'code & data', url: '/code & data'}
+- {name: 'research', url: '/research'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
