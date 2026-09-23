@@ -7,4 +7,4 @@ I'm a Research Associate at the Indian School of Business, working with Professo
 
 My research interests lie at the intersection of technology and financial information, specifically, how technological change affects corporate disclosure and information processing costs.
 
-I am applying to PhD programs in Accounting for Fall 2027 admission.
+I am currently applying to PhD programs in Accounting for Fall 2027 admission.
